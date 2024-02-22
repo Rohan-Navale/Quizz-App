@@ -23,6 +23,7 @@ class StartScreen extends StatelessWidget {
             style: GoogleFonts.lato(
               fontSize: 24,
               color: const Color.fromARGB(255, 237, 223, 252),
+              
             ),
           ),
           const SizedBox(height: 30),
